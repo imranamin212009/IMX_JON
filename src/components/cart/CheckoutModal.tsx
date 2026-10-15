@@ -96,7 +96,7 @@ export const CheckoutModal: React.FC = () => {
               Checkout & Payment
             </h2>
             <p className="text-xs text-slate-500">
-              Safe & Encrypted 256-Bit SSL Checkout Powered by IMX ZONE
+              Safe & Encrypted 256-Bit SSL Checkout Powered by IMX JON
             </p>
           </div>
           <button
@@ -454,7 +454,7 @@ export const CheckoutModal: React.FC = () => {
                   type="text"
                   value={promoInput}
                   onChange={(e) => setPromoInput(e.target.value)}
-                  placeholder="Try: FIRE20, IMX ZONE10, FREESHIP"
+                  placeholder="Try: FIRE20, IMX JON10, FREESHIP"
                   className="flex-1 px-3 py-2 bg-white border border-slate-200 rounded-lg text-xs uppercase"
                 />
                 <button

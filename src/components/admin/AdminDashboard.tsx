@@ -30,7 +30,7 @@ export const AdminDashboard: React.FC = () => {
           <div className="flex items-center gap-2">
             <ShieldCheck className="w-5 h-5 text-emerald-400" />
             <span className="text-xs font-bold uppercase tracking-wider text-emerald-400">
-              IMX ZONE · SUPER ADMIN CONSOLE
+              IMX JON · SUPER ADMIN CONSOLE
             </span>
           </div>
           <h1 className="text-xl md:text-2xl font-black mt-1">

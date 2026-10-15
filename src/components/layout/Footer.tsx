@@ -64,7 +64,7 @@ export const Footer: React.FC = () => {
             <Logo size="md" showTagline={true} />
           </div>
           <p className="text-slate-400 text-xs leading-relaxed max-w-sm">
-            IMX ZONE is Bangladesh's premier multi-vendor e-commerce destination inspired by IMX ZONE. Empowering thousands of verified vendors and delivering over a million authentic products nationwide.
+            IMX JON is Bangladesh's premier multi-vendor e-commerce destination inspired by IMX JON. Empowering thousands of verified vendors and delivering over a million authentic products nationwide.
           </p>
           <div className="flex items-center gap-2 pt-1">
             <button
@@ -146,7 +146,7 @@ export const Footer: React.FC = () => {
       {/* 3. Copyright bottom bar */}
       <div className="border-t border-slate-800 py-4 px-4 text-center text-slate-500 text-[11px]">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2">
-          <p>© 2026 IMX ZONE BD Ltd. All Rights Reserved. Certified Multi-Vendor Platform.</p>
+          <p>© 2026 IMX JON BD Ltd. All Rights Reserved. Certified Multi-Vendor Platform.</p>
           <div className="flex items-center gap-4">
             <span className="hover:text-slate-400 cursor-pointer">Terms of Service</span>
             <span>·</span>

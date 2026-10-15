@@ -210,7 +210,7 @@ export const Header: React.FC = () => {
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               onFocus={() => setIsSearchFocused(true)}
-              placeholder="Search in IMX ZONE (e.g. Wireless Headphones, Smartwatch, iPhone...)"
+              placeholder="Search in IMX JON (e.g. Wireless Headphones, Smartwatch, iPhone...)"
               className="w-full px-3.5 py-2 text-sm text-slate-800 focus:outline-hidden placeholder:text-slate-400"
             />
 

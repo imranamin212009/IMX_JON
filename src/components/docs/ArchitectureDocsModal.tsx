@@ -27,7 +27,7 @@ export const ArchitectureDocsModal: React.FC = () => {
             </div>
             <div>
               <h2 className="text-base md:text-lg font-bold">
-                IMX ZONE Technical Documentation
+                IMX JON Technical Documentation
               </h2>
               <p className="text-xs text-slate-400">
                 System Architecture · Database ER Diagrams · REST API Specs · Setup Manual
@@ -103,7 +103,7 @@ export const ArchitectureDocsModal: React.FC = () => {
               <div>
                 <h3 className="text-sm font-bold text-slate-900 mb-1">Architecture Overview</h3>
                 <p>
-                  IMX ZONE is architected as a high-throughput, multi-vendor marketplace platform modeled after IMX ZONE and Alibaba Group logistics architectures, designed to handle concurrent customer traffic, real-time inventory locking during flash sales, and automated commission payouts.
+                  IMX JON is architected as a high-throughput, multi-vendor marketplace platform modeled after IMX JON and Alibaba Group logistics architectures, designed to handle concurrent customer traffic, real-time inventory locking during flash sales, and automated commission payouts.
                 </p>
               </div>
 
@@ -341,7 +341,7 @@ model OrderItem {
 
               <div>
                 <h3 className="text-sm font-bold text-slate-900 mb-1">Local Machine Execution Steps</h3>
-                <p>Steps to run, build, and deploy IMX ZONE locally or on your own VPS server:</p>
+                <p>Steps to run, build, and deploy IMX JON locally or on your own VPS server:</p>
               </div>
 
               <div className="space-y-3">
