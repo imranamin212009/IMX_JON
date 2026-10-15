@@ -54,9 +54,6 @@ export const Logo: React.FC<LogoProps> = ({ size = 'md', showTagline = false, cl
           <span className="font-extrabold tracking-tight text-slate-900 text-lg md:text-xl">
             IMX
           </span>
-          <span className="font-extrabold tracking-wide text-[#F57224] text-lg md:text-xl drop-shadow-sm flex items-center">
-            FIRE
-          </span>
           <span className="font-extrabold tracking-tight text-slate-800 text-lg md:text-xl">
             JON
           </span>
